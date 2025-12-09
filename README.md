@@ -4,7 +4,7 @@ A small Python project that finds similar fruit names using the **Levenshtein di
 
 ## 🚀 Live Demo
 You can try the Fruit AI project online here:  
-[🔗 Fruit AI Live Demo](https://itzpremsingh.github.io/html/fruit-ai/index.html)
+[🔗 Fruit AI Live Demo](https://silentcoderhere.github.io/html/fruit-ai/index.html)
 
 ---
 
